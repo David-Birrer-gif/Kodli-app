@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Water Reminder</string>
+    <string name="notification_title">Zeit für Wasser 💧</string>
+    <string name="notification_body">Trink ein Glas Wasser, dein Körper wird es dir danken.</string>
+</resources>
